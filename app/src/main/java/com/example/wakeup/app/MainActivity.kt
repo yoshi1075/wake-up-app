@@ -1,4 +1,4 @@
-package com.example.wakeup
+package com.example.wakeup.app
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
